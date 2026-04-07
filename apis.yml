@@ -1,7 +1,12 @@
 aid: keurig-dr-pepper
-url: https://raw.githubusercontent.com/api-evangelist/keurig-dr-pepper/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/keurig-dr-pepper/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.keurig-dr-pepper.com
+description: >-
+  Keurig Dr Pepper is a leading beverage company in North America with a portfolio
+  of more than 125 owned, licensed, partner, and allied brands across hot and cold
+  beverages.
