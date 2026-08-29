@@ -7,6 +7,17 @@ description: >-
   beverages, including Keurig single-serve brewing systems and brands such as Dr Pepper,
   7UP, Snapple, Mott's, Bai, Green Mountain Coffee Roasters, and Peet's Coffee.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
